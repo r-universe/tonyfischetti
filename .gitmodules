@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "assertr"]
+	path = assertr
+	url = https://github.com/tonyfischetti/assertr
 [submodule "libbib"]
 	path = libbib
 	url = https://github.com/cran/libbib
